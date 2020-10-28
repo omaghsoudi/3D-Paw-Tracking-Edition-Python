@@ -3,11 +3,14 @@ This is a python software for tracking of rodents paws. It provides the ability 
 More details can be found in:
 https://link.springer.com/article/10.1186/s13640-019-0477-9
 
-This Figure is sample of 3D reconstruction from animal locomotion:
-![image](https://github.com/omaghsoudi/3D-Paw-Tracking-Edition-Python/blob/master/fig6.png)
-
+GUI:
 ![image](https://github.com/omaghsoudi/3D-Paw-Tracking-Edition-Python/blob/master/fig7.png)
 
+Optimzation and kinematics prediction using modeling:
+![image](https://github.com/omaghsoudi/3D-Paw-Tracking-Edition-Python/blob/master/fig6.png)
+
+This Figure is sample of 3D reconstruction from animal locomotion:
 ![image](https://github.com/omaghsoudi/3D-Paw-Tracking-Edition-Python/blob/master/fig9.png)
 
+This Figure is sample of 3D reconstruction from animal locomotion:
 ![image](https://github.com/omaghsoudi/3D-Paw-Tracking-Edition-Python/blob/master/fig10.png)
