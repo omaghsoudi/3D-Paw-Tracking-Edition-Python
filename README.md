@@ -4,10 +4,10 @@ More details can be found in:
 https://link.springer.com/article/10.1186/s13640-019-0477-9
 
 This Figure is sample of 3D reconstruction from animal locomotion:
-![image](https://github.com/omaghsoudi/3D-Paw-Tracking-Edition-Python/blob/master/fig6.pdf)
+![image](https://github.com/omaghsoudi/3D-Paw-Tracking-Edition-Python/blob/master/fig6.png)
 
-![image](https://github.com/omaghsoudi/3D-Paw-Tracking-Edition-Python/blob/master/fig7.pdf)
+![image](https://github.com/omaghsoudi/3D-Paw-Tracking-Edition-Python/blob/master/fig7.png)
 
-![image](https://github.com/omaghsoudi/3D-Paw-Tracking-Edition-Python/blob/master/fig9.pdf)
+![image](https://github.com/omaghsoudi/3D-Paw-Tracking-Edition-Python/blob/master/fig9.png)
 
-![image](https://github.com/omaghsoudi/3D-Paw-Tracking-Edition-Python/blob/master/fig10.pdf)
+![image](https://github.com/omaghsoudi/3D-Paw-Tracking-Edition-Python/blob/master/fig10.png)
